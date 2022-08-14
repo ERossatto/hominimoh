@@ -1,5 +1,10 @@
 {
   "name": "hominimoh",
+  "author": {
+    "name": "Ettore Oelfeld Rossatto",
+    "email": "ettorerossatto@gmail.com",
+    "url": "https://www.hominimoh.com"
+  },
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
